@@ -1,4 +1,4 @@
-Testando
+gitTestando
 uma
 mudança
 no arquivo
@@ -6,3 +6,4 @@ no arquivo
 enviando
 a funcionalidade
 X
+enviando a funcionalidade b
